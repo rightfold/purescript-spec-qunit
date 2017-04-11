@@ -1,0 +1,13 @@
+{
+  "name": "purescript-spec-qunit",
+  "dependencies": {
+    "purescript-aff": "^3.0.0",
+    "purescript-eff": "^3.1.0",
+    "purescript-prelude": "^3.0.0",
+    "purescript-foldable-traversable": "^3.0.0",
+    "purescript-spec": "^0.13.0"
+  },
+  "devDependencies": {
+    "purescript-datetime": "^3.0.0"
+  }
+}
